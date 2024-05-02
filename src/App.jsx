@@ -1,8 +1,8 @@
 import { Route, BrowserRouter as Router, Routes } from "react-router-dom";
 import Index from "./pages/Index.jsx";
-import Team from './features/Team';
-import Member from './features/Member';
-import Channel from './features/Channel';
+import Team from './features/Team.jsx';
+import Member from './features/Member.jsx';
+import Channel from './features/Channel.jsx';
 
 function App() {
   return (
